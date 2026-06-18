@@ -1,7 +1,7 @@
 # Mammographic Mass Classification via Soft Computing
 
 ## 1. Project Overview
-This project compares three soft computing techniques—**Fuzzy Logic**, **Evolutionary Algorithm (GA)**, and a **Hybrid GA–Fuzzy approach**—for classifying mammographic masses as benign or malignant.  
+This project compares three soft computing techniques **Fuzzy Logic**, **Evolutionary Algorithm (GA)**, and a **Hybrid GA–Fuzzy approach** for classifying mammographic masses as benign or malignant.  
 The comparison is conducted from a **No Free Lunch (NFL) Theorem perspective**, highlighting trade-offs between accuracy, sensitivity, and interpretability.
 
 ---
